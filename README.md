@@ -1,4 +1,4 @@
-# UL Lab workbook
+# Lab workbook
 
 ## Lab Environment Overview
 The lab scenarios will be deployed and executed in a virtual environment. The environment can be built directly from the student’s own computer or UL server if preferable, however, the exercises are designed to be run on Github Codespaces to streamline the process.
