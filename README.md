@@ -10,11 +10,12 @@ Containerlab is a lightweight and flexible network emulation tool that enables u
 
 https://containerlab.dev/
 
-## Arista Networks, Arista EOS and cEOS-lab
+## Arista Networks
 Arista Networks is a leading provider of cloud networking solutions for data centers, cloud service providers, and enterprise environments. Founded in 2004, the company specializes in high-performance, programmable, and highly scalable network architectures. Arista's networking solutions focus on automation, open standards, and software-driven networking, making them popular for cloud computing, SDN, and AI workloads.
 
 https://www.arista.com/en/company/company-overview 
 
+## Arista EOS
 Arista EOS (Extensible Operating System) is the network operating system (NOS) that powers Arista's switches and routers. Unlike traditional monolithic NOS architectures, EOS is built on a Linux-based, fully modular architecture, offering:
 Single Binary Image: Ensures a consistent software experience across all Arista platforms.
 Programmability & Automation: Provides open APIs, including CLI, eAPI (RESTful API), and gNMI.
