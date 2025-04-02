@@ -44,5 +44,12 @@ Download cEOS-lab:
 - The lab exercise steps will be stored in separated README.md files in their respective directories.
 
 ### Deploying a Codespace instance
+- Click on Code > ... > New with options...
+
+![Step1](images/codespace1.png)
+
+- Change the machine type to 4-core, 32GB RAM and click on Create codespace
+
+![Step2](images/codespace2.png)
 
 ### Sample lab
