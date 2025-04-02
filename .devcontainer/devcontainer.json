@@ -5,7 +5,7 @@
       "ghcr.io/devcontainers/features/docker-in-docker:1": {}
     },
     "privileged": true,
-    "postCreateCommand": "/bin/bash /workspaces/clab-ul/.devcontainer/setup.sh",
+    "postCreateCommand": "/bin/bash /workspaces/clab-ul-exercises/.devcontainer/setup.sh",
     "customizations": {
       "vscode": {
         "extensions": []
