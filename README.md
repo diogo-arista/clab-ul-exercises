@@ -1,9 +1,4 @@
-# SDN / NFV Lab workbook
-
-## About this Workbook
-This workbook is designed for students participating in the SDN/NFV course at the University of Limerick. It provides structured lab exercises to reinforce theoretical concepts through hands-on practice.
-
-The lab workbook will have a total of five lab exercises covering different aspects related to SDN/NFV environments.
+# UL Lab workbook
 
 ## Lab Environment Overview
 The lab scenarios will be deployed and executed in a virtual environment. The environment can be built directly from the student’s own computer or UL server if preferable, however, the exercises are designed to be run on Github Codespaces to streamline the process.
